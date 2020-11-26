@@ -22,4 +22,6 @@ reated by https://www.toptal.com/developers/gitignore/api/go
 /vendor/
 /Godeps/
 
+### Output ###
+out
 # End of https://www.toptal.com/developers/gitignore/api/go
