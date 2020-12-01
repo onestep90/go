@@ -24,4 +24,10 @@ reated by https://www.toptal.com/developers/gitignore/api/go
 
 ### Output ###
 out
+
+### Additional ###
+*.DS_Store
+bin
+pkg
+
 # End of https://www.toptal.com/developers/gitignore/api/go
