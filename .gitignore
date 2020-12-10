@@ -29,5 +29,8 @@ out
 *.DS_Store
 bin
 pkg
+*.csv
+github.com
+golang.org
 
 # End of https://www.toptal.com/developers/gitignore/api/go
